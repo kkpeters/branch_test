@@ -1,2 +1,8 @@
 ybg7bt6vfgsfdhgvbljnk hehe
 blahhh edited yay
+do something else
+weeeeee
+
+
+"git pull" to pull changes from the repo
+"git difftool" to view changes to a file from the last commit
