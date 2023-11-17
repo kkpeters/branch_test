@@ -3,6 +3,6 @@ blahhh edited yay boo
 do something else
 weeeeee
 
-
+a new line!!!!!
 "git pull" to pull changes from the repo
 "git difftool" to view changes to a file from the last commit
